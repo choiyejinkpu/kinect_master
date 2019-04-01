@@ -1,0 +1,1 @@
+C:\Users\yejin\Desktop\kinect_master\kinect_test\kinect_test.csproj;x86

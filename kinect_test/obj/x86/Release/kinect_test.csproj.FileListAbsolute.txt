@@ -1,0 +1,271 @@
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\Gestures\lizard.gbd
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\Gestures\side.gbd
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\Gestures\up.gbd
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\Gestures\chest.gbd
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\Gestures\leg.gbd
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\App.xbf
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\MainPage.xbf
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\Stretching.xbf
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\st_List.xbf
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\kinect_test.xr.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\kinect_test.exe
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\kinect_test.pdb
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\resources.pri
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\AppxManifest.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\kinect_test.build.appxrecipe
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\Microsoft.Kinect.VisualGestureBuilder.winmd
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\MySql.Data.RT.dll
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\System.Data.Common.dll
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\System.Data.SqlClient.dll
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\System.Reactive.Core.dll
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\System.Reactive.Interfaces.dll
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\System.Reactive.Linq.dll
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\System.Reactive.PlatformServices.dll
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\XamlAnimatedGif.dll
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\Newtonsoft.Json.pdb
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\System.Reactive.Core.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\System.Reactive.Interfaces.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\System.Reactive.Linq.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\bin\x86\Release\System.Reactive.PlatformServices.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\kinect_test.csprojResolveAssemblyReference.cache
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\App.g.i.cs
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\App.g.cs
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MainPage.g.i.cs
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MainPage.g.cs
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\Stretching.g.i.cs
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\Stretching.g.cs
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\st_List.g.i.cs
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\st_List.g.cs
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\App.xaml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MainPage.xaml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\Stretching.xaml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\st_List.xaml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\App.xbf
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MainPage.xbf
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\Stretching.xbf
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\st_List.xbf
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\XamlSaveStateFile.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\kinect_test.exe
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\kinect_test.pdb
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MySql.Data.RT\en-US\MySql.Data.RT.Properties.Resources.resw
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Data.SqlClient\en-US\FxResources.System.Data.SqlClient.SR.resw
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Core\en-US\System.Reactive.Strings_Core.resw
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Linq\en-US\System.Reactive.Strings_Linq.resw
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\en-US\System.Reactive.Strings_PlatformServices.resw
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\kinect_test.csproj.GenerateResource.Cache
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MySql.Data.RT.pri
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MySql.Data.RT\qualifiers.txt
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Data.SqlClient.pri
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Data.SqlClient\qualifiers.txt
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Core.pri
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Core\qualifiers.txt
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Linq.pri
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Linq\qualifiers.txt
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.PlatformServices.pri
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\qualifiers.txt
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\priconfig.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\layout.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\resources.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\pri.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\qualifiers.txt
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\ProjectArchitectures.txt
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MySql.Data.RT\layout.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MySql.Data.RT\layout.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MySql.Data.RT\Resources.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MySql.Data.RT\Resources.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MySql.Data.RT\pri.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MySql.Data.RT\pri.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MySql.Data.RT\priconfig.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\MySql.Data.RT\priconfig.xml.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Data.SqlClient\layout.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Data.SqlClient\layout.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Data.SqlClient\Resources.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Data.SqlClient\Resources.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Data.SqlClient\pri.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Data.SqlClient\pri.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Data.SqlClient\priconfig.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Data.SqlClient\priconfig.xml.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Core\layout.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Core\layout.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Core\Resources.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Core\Resources.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Core\pri.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Core\pri.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Core\priconfig.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Core\priconfig.xml.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Linq\layout.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Linq\layout.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Linq\Resources.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Linq\Resources.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Linq\pri.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Linq\pri.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Linq\priconfig.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.Linq\priconfig.xml.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\layout.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\layout.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\Resources.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\Resources.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\pri.resfiles
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\pri.resfiles.intermediate
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\priconfig.xml
+C:\Users\yyj01\OneDrive\문서\Visual Studio 2015\kinect_test\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\priconfig.xml.intermediate
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\Gestures\lizard.gbd
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\Gestures\side.gbd
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\Gestures\up.gbd
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\Gestures\chest.gbd
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\Gestures\leg.gbd
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\App.xbf
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\MainPage.xbf
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\Stretching.xbf
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\st_List.xbf
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\kinect_test.xr.xml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\kinect_test.exe
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\kinect_test.pdb
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\resources.pri
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\AppxManifest.xml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\kinect_test.build.appxrecipe
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\Microsoft.Kinect.VisualGestureBuilder.winmd
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\System.Data.Common.dll
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\System.Data.SqlClient.dll
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\Newtonsoft.Json.pdb
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\System.Reactive.Core.xml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\System.Reactive.Interfaces.xml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\System.Reactive.Linq.xml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\bin\x86\Release\System.Reactive.PlatformServices.xml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\kinect_test.csprojResolveAssemblyReference.cache
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\App.g.i.cs
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\App.g.cs
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\MainPage.g.i.cs
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\MainPage.g.cs
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\Stretching.g.i.cs
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\Stretching.g.cs
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\st_List.g.i.cs
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\st_List.g.cs
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\App.xaml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\MainPage.xaml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\Stretching.xaml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\st_List.xaml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\App.xbf
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\MainPage.xbf
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\Stretching.xbf
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\st_List.xbf
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\XamlSaveStateFile.xml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\kinect_test.exe
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\kinect_test.pdb
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\MySql.Data.RT\en-US\MySql.Data.RT.Properties.Resources.resw
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\System.Data.SqlClient\en-US\FxResources.System.Data.SqlClient.SR.resw
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\System.Reactive.Core\en-US\System.Reactive.Strings_Core.resw
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\System.Reactive.Linq\en-US\System.Reactive.Strings_Linq.resw
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\en-US\System.Reactive.Strings_PlatformServices.resw
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\kinect_test.csproj.GenerateResource.Cache
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\MySql.Data.RT.pri
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\MySql.Data.RT\qualifiers.txt
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\System.Data.SqlClient.pri
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\System.Data.SqlClient\qualifiers.txt
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\System.Reactive.Core.pri
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\System.Reactive.Core\qualifiers.txt
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\System.Reactive.Linq.pri
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\System.Reactive.Linq\qualifiers.txt
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\System.Reactive.PlatformServices.pri
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\qualifiers.txt
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\priconfig.xml
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\layout.resfiles
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\resources.resfiles
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\pri.resfiles
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\qualifiers.txt
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\yejin\Desktop\kinect_1\kinect_test\obj\x86\Release\ProjectArchitectures.txt
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\Gestures\lizard.gbd
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\Gestures\side.gbd
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\Gestures\up.gbd
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\Gestures\chest.gbd
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\Gestures\leg.gbd
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\App.xbf
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\MainPage.xbf
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\Stretching.xbf
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\st_List.xbf
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\kinect_test.xr.xml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\kinect_test.exe
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\kinect_test.pdb
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\resources.pri
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\AppxManifest.xml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\kinect_test.build.appxrecipe
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\Microsoft.Kinect.VisualGestureBuilder.winmd
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\System.Data.Common.dll
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\System.Data.SqlClient.dll
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\Newtonsoft.Json.pdb
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\System.Reactive.Core.xml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\System.Reactive.Interfaces.xml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\System.Reactive.Linq.xml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\bin\x86\Release\System.Reactive.PlatformServices.xml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\kinect_test.csprojResolveAssemblyReference.cache
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\App.g.i.cs
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\App.g.cs
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\MainPage.g.i.cs
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\MainPage.g.cs
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\Stretching.g.i.cs
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\Stretching.g.cs
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\st_List.g.i.cs
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\st_List.g.cs
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\App.xaml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\MainPage.xaml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\Stretching.xaml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\st_List.xaml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\App.xbf
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\MainPage.xbf
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\Stretching.xbf
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\st_List.xbf
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\XamlSaveStateFile.xml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\kinect_test.exe
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\kinect_test.pdb
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\MySql.Data.RT\en-US\MySql.Data.RT.Properties.Resources.resw
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\System.Data.SqlClient\en-US\FxResources.System.Data.SqlClient.SR.resw
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\System.Reactive.Core\en-US\System.Reactive.Strings_Core.resw
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\System.Reactive.Linq\en-US\System.Reactive.Strings_Linq.resw
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\en-US\System.Reactive.Strings_PlatformServices.resw
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\kinect_test.csproj.GenerateResource.Cache
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\MySql.Data.RT.pri
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\MySql.Data.RT\qualifiers.txt
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\System.Data.SqlClient.pri
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\System.Data.SqlClient\qualifiers.txt
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\System.Reactive.Core.pri
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\System.Reactive.Core\qualifiers.txt
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\System.Reactive.Linq.pri
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\System.Reactive.Linq\qualifiers.txt
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\System.Reactive.PlatformServices.pri
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\System.Reactive.PlatformServices\qualifiers.txt
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\priconfig.xml
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\priconfig.xml.intermediate
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\layout.resfiles
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\layout.resfiles.intermediate
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\resources.resfiles
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\resources.resfiles.intermediate
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\pri.resfiles
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\pri.resfiles.intermediate
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\qualifiers.txt
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\qualifiers.txt.intermediate
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\yejin\Desktop\kinect_master\kinect_test\obj\x86\Release\ProjectArchitectures.txt
